@@ -1,14 +1,13 @@
 ## Hi there, I'm Kathrine 👋
 
 
-🔭 Working on becoming a frond-end developer
-🌱 Learning about javascript
-🌟 Main languages: HTML, CSS and Javascript
-🔎 Interested in javascript, typescript, tailwind, and react.js
-💖 In a complicated relationship with Suricata IDS
-🖌️ Love history, reading, podcasts, cycling, going to concerts
-🎵 Love most kinds of music
-⚡ Love autumn 
+🔭 Working on becoming a frond-end developer  
+🌱 Learning about javascript  
+🌟 Main languages: HTML, CSS and Javascript  
+🔎 Interested in javascript, typescript, tailwind, and react.js  
+🖌️ Love history, reading, podcasts, cycling, going to concerts  
+🎵 Love most kinds of music  
+⚡ Love autumn   
 
 
 
