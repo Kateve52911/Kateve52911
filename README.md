@@ -1,6 +1,6 @@
 ## Hi there, I'm Kathrine 👋
 
-🔭 I am Kathrine and I am currently in developemnt to become a Front-End Developer.
+🔭 I am Kathrine and I am currently in developemnt to become a Front-End Developer.  
 🔱 I am at heart a history person with a Ba History and a MA Classics and Ancient History. I like to bring this into my Front-End journey and have created a website inspired by the ancient Greek Gods: https://godlywhispers.netlify.app/
 <!--
 **Kateve52911/Kateve52911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
